@@ -1,4 +1,4 @@
-deepCLEM is the repository for the research project entitle "Deep-learning-aided label-free Correlative Light Electron Microscopy" funded under grant PID2022-142166NA-I00 by the Spanish "Ministerio de Ciencia, Innovación y Universidades"-"Agencia Estatal de Investigación" and by FEDER, UE.
+deepCLEM is the repository for the research project entitle "Deep-learning-aided label-free Correlative Light Electron Microscopy" funded by the Spanish "Ministerio de Ciencia, Innovación y Universidades"-"Agencia Estatal de Investigación" and by the "Fondo Europeo de Desarrollo Regional" under grant PID2022-142166NA-I00 (MICIU/AEI/10.13039/501100011033/FEDER, UE).
 
 <!---
 deepCLEM/deepCLEM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
